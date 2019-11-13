@@ -1,0 +1,16 @@
+body{background-color: #00ffcc;}
+p {
+  font-family: "Open Sans", Times, serif;
+}
+ul.a {
+  list-style-type: sqaure;
+}
+
+ul.b {
+  list-style-type: square;
+}
+ul li {
+  background: #ffcccc;
+  padding: 3px;
+  margin-left: 25px;
+}
