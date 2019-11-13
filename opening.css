@@ -1,0 +1,22 @@
+body{background-color: #00ffcc;}
+p {
+  font-family: "Open Sans", Times, serif;
+}
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 8px;
+}
+
+tr:nth-child(even){background-color: #ffe5e5}
+
+tr:nth-child(odd){background-color:#ffcccc}
+th {
+  background-color: #ff9999;
+  color: white;
+}
+table, th, td {
+  border: 2px solid black;
+}
